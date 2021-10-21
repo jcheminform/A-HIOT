@@ -1,5 +1,5 @@
 # A-HIOT
-The A-HIOT is a futuristic virtual screening (VS) framework ˗ automated hit identification and 
+The A-HIOT is an advanced virtual screening (VS) framework ˗ automated hit identification and 
 optimization tool (A-HIOT) comprise of the stacked ensemble, deep learning architectures and combines 
 conventional approaches based on the chemical space (AI-dependent predictive model derived from standard 
 ligand information for respective targets) and protein space (target structure information collection and 

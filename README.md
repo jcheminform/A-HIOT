@@ -4,8 +4,8 @@ optimization tool (A-HIOT) comprise of the stacked ensemble, deep learning archi
 conventional approaches based on the chemical space (AI-dependent predictive model derived from standard 
 ligand information for respective targets) and protein space (target structure information collection and 
 AI dependent prognostic model extracted from the interaction pattern of target protein-ligand complexes).
-The A-HIOT is a reliable approach for bridging the long42 standing gap between ligand-based and 
-structure-based VS and finding accurate hits for the desired or fixed receptor.
+The A-HIOT is a reliable approach for bridging the long-standing gap between ligand-based and 
+structure-based VS and finding optimized hits for the desired or fixed receptor.
 
 ## Prerequisites
 1. The following standalone packages and tools are required:

@@ -5,7 +5,7 @@ conventional approaches based on the chemical space (AI-dependent predictive mod
 ligand information for respective targets) and protein space (target structure information collection and 
 AI dependent prognostic model extracted from the interaction pattern of target protein-ligand complexes).
 The A-HIOT is a reliable approach for bridging the long-standing gap between ligand-based and 
-structure-based VS and finding optimized hits for the desired or fixed receptor.
+structure-based VS and finding optimized hits for the desired or fixed receptor. https://gitlab.com/neeraj-24/A-HIOT/-/blob/main/Figure_2.tif 
 
 ## Prerequisites
 1. The following standalone packages and tools are required:
